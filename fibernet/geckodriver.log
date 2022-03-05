@@ -1,0 +1,853 @@
+1646309286105	geckodriver	INFO	Listening on 127.0.0.1:53003
+1646309289202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53004" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileRDuWhW"
+1646309290776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1646309290776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1646309290776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1646309293343	Marionette	INFO	Listening on port 53015
+1646309293404	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 25744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1646309313832	Marionette	INFO	Stopped listening on port 53015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 18632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1646309739862	geckodriver	INFO	Listening on 127.0.0.1:54062
+1646309742940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54063" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileRM3ddY"
+1646309743921	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1646309743922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1646309743923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1646309746797	Marionette	INFO	Listening on port 54073
+1646309747172	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Parent 18136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1646309757396	Marionette	INFO	Stopped listening on port 54073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1559133213/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1646310177698	geckodriver	INFO	Listening on 127.0.0.1:55352
+1646310180754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55353" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileWGnfRd"
+1646310218421	geckodriver	INFO	Listening on 127.0.0.1:55625
+1646310221468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55626" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile5gNyGH"
+1646310221967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile5gNyGH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55626/devtools/browser/4a55335c-cf73-4c97-b251-e890b4de0af7
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+1646310224019	Marionette	INFO	Listening on port 55635
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646310224153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646310226939	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646310227250	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646310237081	Marionette	INFO	Stopped listening on port 55635
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646315006665	geckodriver	INFO	Listening on 127.0.0.1:53156
+1646315009721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53157" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileWpGvcG"
+1646315010796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileWpGvcG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53157/devtools/browser/1e4cd5a5-2a08-4769-83be-7cf3a1d06989
+1646315013038	Marionette	INFO	Listening on port 53165
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646315013418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1646315032150	Marionette	INFO	Stopped listening on port 53165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646315088805	geckodriver	INFO	Listening on 127.0.0.1:53399
+1646315091847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53400" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilexRIFX3"
+1646315092403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilexRIFX3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53400/devtools/browser/70fe0ed8-7f16-43ff-a7af-9e21c42cf4b6
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646315094952	Marionette	INFO	Listening on port 53408
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646315095022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646315097263	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646315097611	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646315118639	Marionette	INFO	Stopped listening on port 53408
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646315222155	geckodriver	INFO	Listening on 127.0.0.1:53736
+1646315225230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53737" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileaMTVac"
+1646315225750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileaMTVac\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53737/devtools/browser/79216723-8ddb-4d57-9c00-ffc506a40aca
+1646315227660	Marionette	INFO	Listening on port 53747
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646315227884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646315230095	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646315230415	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646315230651	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646315342699	Marionette	INFO	Stopped listening on port 53747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646316449956	geckodriver	INFO	Listening on 127.0.0.1:56001
+1646316453023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56002" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofiletVarqL"
+1646316453813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofiletVarqL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56002/devtools/browser/fa18c029-4041-44a7-b79f-f17716296011
+1646316455964	Marionette	INFO	Listening on port 56012
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646316456234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646316466122	Marionette	INFO	Stopped listening on port 56012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646316474767	geckodriver	INFO	Listening on 127.0.0.1:56147
+1646316477807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56148" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile2rG9Vq"
+1646316478188	Marionette	INFO	Marionette enabled
+1646316509792	geckodriver	INFO	Listening on 127.0.0.1:56246
+1646316512859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56247" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileEANLZD"
+1646316513168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileEANLZD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56247/devtools/browser/ffbd1eca-220e-4ed9-a3ea-626e551a7258
+1646316515136	Marionette	INFO	Listening on port 56256
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646316515506	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316517640	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316517898	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316522697	Marionette	INFO	Stopped listening on port 56256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646316641663	geckodriver	INFO	Listening on 127.0.0.1:56502
+1646316644717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56503" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileDVQTH8"
+1646316645036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileDVQTH8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56503/devtools/browser/404a7264-cf59-41d5-b1d2-3827cef74697
+1646316646832	Marionette	INFO	Listening on port 56512
+1646316646875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316649082	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316649448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316657478	Marionette	INFO	Stopped listening on port 56512
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646316676465	geckodriver	INFO	Listening on 127.0.0.1:56648
+1646316679512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56649" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileHeXZiZ"
+1646316680022	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileHeXZiZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56649/devtools/browser/84079bc5-06f9-4e8c-a2bd-63ed32942e7e
+1646316681947	Marionette	INFO	Listening on port 56662
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1646316682158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316684368	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646316691331	Marionette	INFO	Stopped listening on port 56662
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646402591778	geckodriver	INFO	Listening on 127.0.0.1:61848
+1646402594835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61849" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileeGPlys"
+1646402595636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileeGPlys\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61849/devtools/browser/b6ea2c56-290f-4e4c-a359-72d7b7348a59
+1646402597818	Marionette	INFO	Listening on port 61858
+1646402597996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646402600663	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646402600925	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646402601287	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646402603009	Marionette	INFO	Stopped listening on port 61858
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646402773277	geckodriver	INFO	Listening on 127.0.0.1:62510
+1646402776352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62511" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilepLWMXO"
+1646402777191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilepLWMXO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62511/devtools/browser/2f9066a3-302a-4532-a5b3-29fa42b107ce
+1646402779517	Marionette	INFO	Listening on port 62521
+1646402780018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646402782994	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646402783212	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646402783286	Marionette	INFO	Stopped listening on port 62521
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646403088039	geckodriver	INFO	Listening on 127.0.0.1:63070
+1646403091078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63071" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilewPKN2F"
+1646403091868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilewPKN2F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63071/devtools/browser/20bc555b-5724-4992-ba53-1094c8e4bfa9
+1646403094081	Marionette	INFO	Listening on port 63081
+1646403094260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646403098428	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646403098729	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646403098971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646403099005	Marionette	INFO	Stopped listening on port 63081
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646403796712	geckodriver	INFO	Listening on 127.0.0.1:64070
+1646403799767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64071" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile9aELhc"
+1646403800412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile9aELhc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64071/devtools/browser/2d711fb9-74c1-4ce1-a579-0758674af86b
+1646403802616	Marionette	INFO	Listening on port 64082
+1646403802953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646403816161	Marionette	INFO	Stopped listening on port 64082
+1646403949851	geckodriver	INFO	Listening on 127.0.0.1:64411
+1646403952903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64412" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileIpxt7L"
+1646403953262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileIpxt7L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64412/devtools/browser/12db3890-26a7-413d-a5be-119687c7a851
+1646403955342	Marionette	INFO	Listening on port 64422
+1646403955558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646403972607	Marionette	INFO	Stopped listening on port 64422
+1646404325265	geckodriver	INFO	Listening on 127.0.0.1:65123
+1646404328321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65124" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileLyWk4a"
+1646404328952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileLyWk4a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65124/devtools/browser/24e12f85-e745-4d4a-aef4-1f01dad8d57d
+1646404330990	Marionette	INFO	Listening on port 65135
+1646404331502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404335252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404341417	Marionette	INFO	Stopped listening on port 65135
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646404900108	geckodriver	INFO	Listening on 127.0.0.1:49559
+1646404903131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49560" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilepqLW57"
+1646404903626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilepqLW57\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49560/devtools/browser/decf68c2-f815-45ab-9bca-93c77f8e543a
+1646404905756	Marionette	INFO	Listening on port 49570
+1646404905810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404908308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404908561	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404908687	Marionette	INFO	Stopped listening on port 49570
+1646404944777	geckodriver	INFO	Listening on 127.0.0.1:49722
+1646404947816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49723" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileCUiilf"
+1646404948144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileCUiilf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49723/devtools/browser/f0476daa-b973-42ee-a233-be662ac2b0e0
+1646404950191	Marionette	INFO	Listening on port 49733
+1646404950478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404952918	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404953149	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646404953414	Marionette	INFO	Stopped listening on port 49733
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405016229	geckodriver	INFO	Listening on 127.0.0.1:49921
+1646405019277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49922" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile9WPa3Y"
+1646405019580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile9WPa3Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49922/devtools/browser/5b0743d1-25bf-422e-b809-8e034899f3f6
+1646405021588	Marionette	INFO	Listening on port 49931
+1646405021922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405030501	Marionette	INFO	Stopped listening on port 49931
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1646405216679	geckodriver	INFO	Listening on 127.0.0.1:50300
+1646405219706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50301" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilep8wdPq"
+1646405220204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilep8wdPq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50301/devtools/browser/38ea6d75-2275-4eb4-9c6e-8c0d26a44369
+1646405222061	Marionette	INFO	Listening on port 50313
+1646405222373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405224759	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405225010	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405225278	Marionette	INFO	Stopped listening on port 50313
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405334669	geckodriver	INFO	Listening on 127.0.0.1:50584
+1646405337723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50585" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilefwz09A"
+1646405338058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilefwz09A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50585/devtools/browser/91ac933a-9f2b-4f88-aa75-bb0d849ecda9
+1646405340025	Marionette	INFO	Listening on port 50596
+1646405340359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405342588	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405342813	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405343066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1646405343176	Marionette	INFO	Stopped listening on port 50596
+1646405363054	geckodriver	INFO	Listening on 127.0.0.1:50713
+1646405366104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50714" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilepQysce"
+1646405366419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilepQysce\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50714/devtools/browser/b4421def-a4dc-49e7-9098-5eb04cd87835
+1646405368419	Marionette	INFO	Listening on port 50723
+1646405368756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405370970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405371239	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405371355	Marionette	INFO	Stopped listening on port 50723
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405430663	geckodriver	INFO	Listening on 127.0.0.1:50895
+1646405433699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50896" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileQNFHAp"
+1646405433995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileQNFHAp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50896/devtools/browser/06d3f82b-9968-4aa6-96d8-05610f130d4b
+1646405435924	Marionette	INFO	Listening on port 50906
+1646405436343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405439375	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405439610	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405439720	Marionette	INFO	Stopped listening on port 50906
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405486910	geckodriver	INFO	Listening on 127.0.0.1:51056
+1646405489960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51057" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileicC3mR"
+1646405490258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileicC3mR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51057/devtools/browser/d4ebb468-cca6-484f-9097-7bb86ea188be
+1646405492204	Marionette	INFO	Listening on port 51066
+1646405492634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405495251	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405501093	Marionette	INFO	Stopped listening on port 51066
+1646405525841	geckodriver	INFO	Listening on 127.0.0.1:51213
+1646405528888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51214" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilet7hm0Y"
+1646405529204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilet7hm0Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51214/devtools/browser/15d13e84-7807-4184-9e84-555d559300f0
+1646405530973	Marionette	INFO	Listening on port 51225
+1646405531054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405533482	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405539453	Marionette	INFO	Stopped listening on port 51225
+1646405610817	geckodriver	INFO	Listening on 127.0.0.1:51439
+1646405613847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51440" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile3ZUqGu"
+1646405614254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile3ZUqGu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51440/devtools/browser/2ca65eb6-9ecc-408f-9988-9b79b50d2e53
+1646405616076	Marionette	INFO	Listening on port 51449
+1646405616509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405625006	Marionette	INFO	Stopped listening on port 51449
+1646405673541	geckodriver	INFO	Listening on 127.0.0.1:51630
+1646405676572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51631" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile7D0E3i"
+1646405676961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile7D0E3i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51631/devtools/browser/ea34af4f-3193-4ad1-aae9-bb73b441eddd
+1646405678894	Marionette	INFO	Listening on port 51640
+1646405679211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405696352	Marionette	INFO	Stopped listening on port 51640
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405881592	geckodriver	INFO	Listening on 127.0.0.1:52377
+1646405884639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52378" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilefUi7WI"
+1646405884939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilefUi7WI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52378/devtools/browser/555fbe15-f5aa-4e7e-bf6d-91f0ba76e5a9
+1646405886728	Marionette	INFO	Listening on port 52389
+1646405886801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405892529	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: https://maps.googleapis.com/maps/api/js?v=quarterly&client=google-maps-lite&libraries=geometry%2Csearch&language=iw-IL&region=US&callback=__mapsCb, line 110: Error: Could not load "controls".
+1646405905951	Marionette	INFO	Stopped listening on port 52389
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405945077	geckodriver	INFO	Listening on 127.0.0.1:52583
+1646405948122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52584" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileKEf0tu"
+1646405948584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileKEf0tu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52584/devtools/browser/9caf8755-f7de-47ee-8cca-4b33e012b29b
+1646405950603	Marionette	INFO	Listening on port 52594
+1646405950784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646405964606	Marionette	INFO	Stopped listening on port 52594
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646405979471	geckodriver	INFO	Listening on 127.0.0.1:52737
+1646405982529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52738" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileWO9yJ2"
+1646405982852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileWO9yJ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52738/devtools/browser/6bbeddd0-f3dd-4d24-bf3e-b76dae17ef13
+1646405984647	Marionette	INFO	Listening on port 52747
+1646405984685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646406002065	Marionette	INFO	Stopped listening on port 52747
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646406045131	geckodriver	INFO	Listening on 127.0.0.1:52929
+1646406048180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52930" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilelbVmUS"
+1646406048545	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilelbVmUS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52930/devtools/browser/2a667ce3-4ad1-42f0-b021-bc428d7a2646
+1646406050334	Marionette	INFO	Listening on port 52938
+1646406050835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646406059146	Marionette	INFO	Stopped listening on port 52938
+1646406085558	geckodriver	INFO	Listening on 127.0.0.1:53112
+1646406088601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53113" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile57SDau"
+1646406088905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile57SDau\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53113/devtools/browser/b4e1d8d4-33f4-4a82-b3da-0440232255ad
+1646406090726	Marionette	INFO	Listening on port 53123
+1646406090763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646406093893	Marionette	INFO	Stopped listening on port 53123
+1646406104740	geckodriver	INFO	Listening on 127.0.0.1:53228
+1646406107799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53229" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilek9ZyYn"
+1646406108097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilek9ZyYn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53229/devtools/browser/9f7f1b67-b513-4ef5-b8b5-b7082b47eebe
+1646406109944	Marionette	INFO	Listening on port 53238
+1646406110458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646406132857	Marionette	INFO	Stopped listening on port 53238
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646408893576	geckodriver	INFO	Listening on 127.0.0.1:61883
+1646408896646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61884" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileVSbifZ"
+1646408897473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileVSbifZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61884/devtools/browser/f6b26886-7920-47ec-a9d2-a4d0e6d47b25
+1646408899674	Marionette	INFO	Listening on port 61893
+1646408899824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646408910758	Marionette	INFO	Stopped listening on port 61893
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646408969847	geckodriver	INFO	Listening on 127.0.0.1:62063
+1646408972914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62064" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileCjIzaM"
+1646408973244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileCjIzaM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62064/devtools/browser/50c8ddb0-021d-41bb-ae6c-615bff89f7a6
+1646408975069	Marionette	INFO	Listening on port 62072
+1646408975573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646408984442	Marionette	INFO	Stopped listening on port 62072
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646409022205	geckodriver	INFO	Listening on 127.0.0.1:62223
+1646409025266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62224" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilen9deyC"
+1646409025560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilen9deyC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62224/devtools/browser/c2b18372-26a4-4596-a633-9ced001661f9
+1646409027486	Marionette	INFO	Listening on port 62231
+1646409027911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646409036739	Marionette	INFO	Stopped listening on port 62231
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646409168781	geckodriver	INFO	Listening on 127.0.0.1:62534
+1646409171825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62535" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilen5KNN5"
+1646409172127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofilen5KNN5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62535/devtools/browser/234f8d19-a513-447b-90a8-349f2d114367
+1646409174241	Marionette	INFO	Listening on port 62542
+1646409174477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646409183233	Marionette	INFO	Stopped listening on port 62542
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1646409291960	geckodriver	INFO	Listening on 127.0.0.1:63016
+1646409295020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63017" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile03Msvc"
+1646409295549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofile03Msvc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63017/devtools/browser/92842eb4-3e38-4c72-a49c-12b18cb5ce21
+1646409297413	Marionette	INFO	Listening on port 63026
+1646409297664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646409305788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646409320187	Marionette	INFO	Stopped listening on port 63026
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646409343533	geckodriver	INFO	Listening on 127.0.0.1:63201
+1646409346603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63202" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileTtPGER"
+1646409346909	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileTtPGER\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63202/devtools/browser/209b9e3b-d1dd-4544-bd1e-e8ed05b67363
+1646409348807	Marionette	INFO	Listening on port 63210
+1646409349269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646409378425	Marionette	INFO	Stopped listening on port 63210
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646498969142	geckodriver	INFO	Listening on 127.0.0.1:54715
+1646498972198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54716" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileimiVTe"
+1646498973055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileimiVTe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54716/devtools/browser/259ceb24-84ea-4e6d-abc5-237245423cb6
+1646498975582	Marionette	INFO	Listening on port 54723
+1646498975874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646499007692	Marionette	INFO	Stopped listening on port 54723
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646499473781	geckodriver	INFO	Listening on 127.0.0.1:55499
+1646499476849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55500" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileSKmb3D"
+1646499477393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileSKmb3D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55500/devtools/browser/8235060e-16c7-412c-b63c-f0a98e141f68
+1646499479320	Marionette	INFO	Listening on port 55509
+1646499479546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646499502665	Marionette	INFO	Stopped listening on port 55509
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646499677245	geckodriver	INFO	Listening on 127.0.0.1:55766
+1646499680313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55767" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileTN4mmj"
+1646499680639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileTN4mmj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55767/devtools/browser/f4006923-39bc-4a3a-8802-52ce5d4b7e6e
+1646499682655	Marionette	INFO	Listening on port 55774
+1646499682981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646499707119	Marionette	INFO	Stopped listening on port 55774
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646499777003	geckodriver	INFO	Listening on 127.0.0.1:55954
+1646499780058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55955" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileNDNeVb"
+1646499780377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileNDNeVb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55955/devtools/browser/f1affd27-b227-46a8-9677-6a4fe146b613
+1646499782333	Marionette	INFO	Listening on port 55963
+1646499782716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646499806554	Marionette	INFO	Stopped listening on port 55963
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646499903930	geckodriver	INFO	Listening on 127.0.0.1:56240
+1646499906992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56241" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileItfVBK"
+1646499907440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileItfVBK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56241/devtools/browser/684b6cec-749d-48a9-8965-2eca45d86585
+1646499909404	Marionette	INFO	Listening on port 56252
+1646499909656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1646499917682	Marionette	INFO	Stopped listening on port 56252
+1646499937625	geckodriver	INFO	Listening on 127.0.0.1:56402
+1646499940678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56403" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileaYaCnU"
+1646499941044	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileaYaCnU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56403/devtools/browser/98036091-85e2-4182-84d4-5bf2493447b8
+1646499942963	Marionette	INFO	Listening on port 56412
+1646499943335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646499971031	Marionette	INFO	Stopped listening on port 56412
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1646500305355	geckodriver	INFO	Listening on 127.0.0.1:57026
+1646500308394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57027" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileBthaFx"
+1646500309248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileBthaFx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57027/devtools/browser/f56c6748-718d-408f-8896-4a47cba0e5fd
+1646500311464	Marionette	INFO	Listening on port 57037
+1646500311571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646500341409	Marionette	INFO	Stopped listening on port 57037
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1646506136646	geckodriver	INFO	Listening on 127.0.0.1:64757
+1646506139706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64758" "-no-remote" "-profile" "C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileJexlws"
+1646506140474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\mmich\\AppData\\Local\\Temp\\rust_mozprofileJexlws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64758/devtools/browser/0b51031d-5065-415b-9da1-ccec76b1a169
+1646506142620	Marionette	INFO	Listening on port 64766
+1646506142870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1646506173032	Marionette	INFO	Stopped listening on port 64766
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
